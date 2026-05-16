@@ -1,3 +1,6 @@
 [submodule "module-2-stack-and-queue-biahlil"]
 	path = module-2-stack-and-queue-biahlil
 	url = https://github.com/DSA26-ULM/module-2-stack-and-queue-biahlil.git
+[submodule "linked-list"]
+	path = linked-list
+	url = https://github.com/DSA26-ULM/module-3-linked-list-biahlil-1.git
