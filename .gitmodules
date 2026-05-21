@@ -4,3 +4,7 @@
 [submodule "linked-list"]
 	path = linked-list
 	url = https://github.com/DSA26-ULM/module-3-linked-list-biahlil-1.git
+[submodule "sorting"]
+	path = sorting
+	url = https://github.com/DSA26-ULM/module-4-sorting-biahlil.git
+
