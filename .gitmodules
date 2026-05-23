@@ -8,3 +8,6 @@
 	path = sorting
 	url = https://github.com/DSA26-ULM/module-4-sorting-biahlil.git
 
+[submodule "searching"]
+	path = searching
+	url = https://github.com/DSA26-ULM/module-5-searching-biahlil.git
