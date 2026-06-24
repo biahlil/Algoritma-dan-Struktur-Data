@@ -11,3 +11,6 @@
 [submodule "searching"]
 	path = searching
 	url = https://github.com/DSA26-ULM/module-5-searching-biahlil.git
+[submodule "tree-graph"]
+	path = tree-graph
+	url = https://github.com/DSA26-ULM/module-6-graph-and-tree-biahlil.git

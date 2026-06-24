@@ -10,9 +10,9 @@ private:
 
 public:
   CircleModule();
-  std::string GetName() const override {
-    return "Struct and Pointer: Lingkaran";
-  }
+  int GetMeetingNumber() const override { return 1; }
+  std::string GetMeetingName() const override { return "Struct and Pointer"; }
+  std::string GetName() const override { return "Lingkaran"; }
   ftxui::Component GetInputComponent() override { return container; }
   ftxui::Element GetOutputElement() override;
   void DrawCanvas(ftxui::Canvas &canvas) override;
